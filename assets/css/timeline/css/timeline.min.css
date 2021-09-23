@@ -82,7 +82,7 @@
 }
 
 .timeline-horizontal .timeline-dots {
-	background: url(../img/timeline-bg.png) bottom repeat-x
+	background: url(../../../images/timeline/img/timeline-bg.png) bottom repeat-x
 }
 
 .timeline-vertical .timeline-dots {
@@ -123,7 +123,7 @@
 }
 
 .timeline-horizontal .timeline-dots button {
-	background: url(../img/date-icon.png) bottom no-repeat;
+	background: url(../../../images/timeline/img/date-icon.png) bottom no-repeat;
 	padding-bottom: 15px
 }
 
